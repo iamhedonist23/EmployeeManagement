@@ -1,5 +1,6 @@
 Given below is an Entity relation diagram:
-![image](https://github.com/iamhedonist23/com.employeeManagement/assets/36872686/6cc138dd-efce-448f-9455-838f1a0860bb)
+![image](https://github.com/iamhedonist23/EmployeeManagement/assets/36872686/2c3b147b-11f0-45f1-ab26-996b8c85a4ea)
+
 
 Given the above Entity relationships, write Java Spring application with the following features: 
 
